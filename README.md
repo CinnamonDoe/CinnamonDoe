@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NicCur1113
 - 👀 I’m interested in Coding, Art, Music and More
-- 🌱 I’m currently learning Python, Javascript, HTML, CSS
-- 💞️ I’m looking to collaborate on ... nothing yet. 
+- 🌱 I’m a software developer, more within the web developer side.
 - 📫 How to reach me ...
 
 <!---
