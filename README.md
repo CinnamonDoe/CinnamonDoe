@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NicCur1113
+- 👋 Hi, I’m @CinnamonDoe
 - 👀 I’m interested in Coding, Art, Music and More
 - 🌱 I’m a software developer, more within the web developer side.
 - 📫 How to reach me niccur416@gmail.com
